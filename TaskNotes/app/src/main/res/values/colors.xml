@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Material Design inspired color palette -->
+<resources>
+    <!-- Primary colors - Indigo -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+
+    <!-- Accent/Secondary color - Teal -->
+    <color name="colorAccent">#009688</color>
+    <color name="colorAccentDark">#00796B</color>
+
+    <!-- Background colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Functional colors -->
+    <color name="delete_color">#E53935</color>
+    <color name="completed_color">#4CAF50</color>
+
+    <!-- Status bar -->
+    <color name="statusBarColor">#283593</color>
+</resources>
